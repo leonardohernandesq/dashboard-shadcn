@@ -15,7 +15,7 @@ export const ChartOverview = () => {
     { month: "Maio", desktop: 209, mobile: 130 },
     { month: "Junho", desktop: 214, mobile: 140 },
   ]
- 
+
 const chartConfig = {
   desktop: {
     label: "Desktop",
